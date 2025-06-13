@@ -3,25 +3,36 @@
 ![Estii20](images/Estii20_logo.png "Estii20 Logo")
 
 Hello 👋🏼
-I am Estelle, I am a recently qualified Junior Software Developer. I'm currently working on my portfolio website.
+I am Estelle, a recently qualified Fullstack Software Developer. I'm passionate about creating captivating digital experiences and thrive in collaborative environments, supporting team success.
 
-My current stack includes:
+I bring a comprehensive skill set combining technical proficiency with a proven track record in event management. I am proficient in key web technologies and eager to contribute to team projects, leveraging my diverse skills to drive powerful outcomes.
 
-Languages - HTML & CSS 💻 JavaScript ☕📃 Python 🐍 C#
-Frameworks & Libraries - Django, Flask, FlaskMail, Werkzeug, JQuery, Bootstrap, Materlize, Dataminer
-Databases - MongoDB & MySQL
-APIs - Google Maps, Cloudinary, EmailJS
-Deployment- Github Pages, Heroku
+My current technical stack includes:
+
+* [cite_start]**Languages:** HTML, CSS, Python, JavaScript 
+* [cite_start]**Frameworks & Libraries:** Django, Bootstrap 
+* [cite_start]**Databases:** ElephantSQL 
+* [cite_start]**Cloud & Deployment:** AWS, Heroku, GitHub 
+* [cite_start]**Design & Tools:** Balsamiq & Figma
+
+My digital skills also include:
+[cite_start]Microsoft Office (Word, PowerPoint, Excel), Git, Problem Solving, Good listening and communication, Teamwork, Organisational and planning skills. 
 
 Want to get in contact?
-Send me a message on [Linkedin](https://www.linkedin.com/in/estelle-specht-947ba526/) 
+[cite_start]Send me a message on [Linkedin](https://www.linkedin.com/in/estelle-specht-947ba526/) or email me at estellespecht@hotmail.co.uk 
 
 ## Highlighted Projects
 
 ### [Perfect Pointes](https://github.com/estii20/perfect_pointes) 
 
-I used to be a professional dancer, so I was really excited to use my dance knowledge to create an e-commerce website for pointe shoes. This was my final project for the [Code Institute Fullstack Diploma](https://codeinstitute.net/global/full-stack-software-development-diploma/?nab=2&utm_referrer=https%3A%2F%2Fwww.google.com%2F) 
+I used to be a professional dancer, so I was really excited to use my dance knowledge to create an e-commerce website for pointe shoes. [cite_start]This was my final project for the [Code Institute Fullstack Diploma](https://codeinstitute.net/global/full-stack-software-development-diploma/?nab=2&utm_referrer=https%3A%2F%2Fwww.google.com%2F) 
 
 ### [Ekotera](https://github.com/estii20/eko-tera)
 
-I'm currently working on this website for a company that installs solar carports. They have a strong environmental ethos and have some big carport projects for hotel groups in Croatia.
+I'm currently working on this website for a company that installs solar carports. [cite_start]They have a strong environmental ethos and have some big carport projects for hotel groups in Croatia. 
+
+### Other Projects include:
+* [cite_start]Aquileia Roman City 
+* [cite_start]Water Cycle Quiz 
+* [cite_start]Guest Feedback Form 
+* [cite_start]Dolce Vita Blog 
