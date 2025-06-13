@@ -1,6 +1,6 @@
 # estii20 README.md
 
-![Estii20](images/Estii20_logo.png "Estii20 Logo")
+![Estii20]("images/PerfectLogo.png")
 
 Hello 👋🏼
 I am Estelle, a recently qualified Fullstack Software Developer. I'm passionate about creating captivating digital experiences and thrive in collaborative environments, supporting team success.
@@ -25,14 +25,14 @@ Want to get in contact?
 
 ### [Perfect Pointes](https://github.com/estii20/perfect_pointes) 
 
-I used to be a professional dancer, so I was really excited to use my dance knowledge to create an e-commerce website for pointe shoes. [cite_start]This was my final project for the [Code Institute Fullstack Diploma](https://codeinstitute.net/global/full-stack-software-development-diploma/?nab=2&utm_referrer=https%3A%2F%2Fwww.google.com%2F) 
+I used to be a professional dancer, so I was really excited to use my dance knowledge to create an e-commerce website for pointe shoes. []This was my final project for the [Code Institute Fullstack Diploma](https://codeinstitute.net/global/full-stack-software-development-diploma/?nab=2&utm_referrer=https%3A%2F%2Fwww.google.com%2F) 
 
 ### [Ekotera](https://github.com/estii20/eko-tera)
 
-I'm currently working on this website for a company that installs solar carports. [cite_start]They have a strong environmental ethos and have some big carport projects for hotel groups in Croatia. 
+I'm currently working on this website for a company that installs solar carports. [https://voltapark.pl/]They have a strong environmental ethos and have some big carport projects for hotel groups in Croatia. 
 
 ### Other Projects include:
-* [cite_start]Aquileia Roman City 
-* [cite_start]Water Cycle Quiz 
-* [cite_start]Guest Feedback Form 
-* [cite_start]Dolce Vita Blog 
+* [https://github.com/estii20/kidswap]]KidSwap
+* [https://github.com/estii20/guest_feedback]Water Cycle Quiz 
+* [https://github.com/estii20/guest_feedback]Guest Feedback Form 
+* [https://github.com/estii20/dolce_vita_blog]Dolce Vita Blog 
